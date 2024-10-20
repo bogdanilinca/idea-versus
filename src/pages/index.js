@@ -6,6 +6,7 @@ export default function Home() {
         <h3>Hello!!</h3>
         <h4>This is the idea-versus presentation site POC (proof of concept)</h4>
         <p>Am pus mai multe logo uri random din pachetul ala sa vedem cu arata</p>
+        <p>De asemenea si fonturile sunt cele din pachetul de fonturi pe care mi l ai dat in zip ul ala</p>
         <p>Ca sa fie accesibil de la www.idea-versus.com sau domeniul pe care l ai cumparat tu , tb sa facem modificari
             in
             DNS ul celor de unde ai cumparat, ca atunci cand acceseaza domeniul tau sa fie redirectionati sa pointeze
